@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning html,css,javascript,react
 - 💞️ I’m looking to collaborate on javascript projects
-- 📫 How to reach me sobiasabi1000@gmail.com
+- 📫 How to reach me sobiasabir1000@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
